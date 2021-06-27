@@ -6,3 +6,4 @@
 #this is repo is for me
 #owner of code david bombal
 #writer milansingh
+only recommended for windows not for other os
